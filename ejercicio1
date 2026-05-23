@@ -1,0 +1,12 @@
+# Definir las dos variables
+a = 5
+b = 5
+
+# Sumar las variables
+resultado = a + b
+
+# Mostrar el resultado
+print("La suma es:", resultado)
+
+
+
