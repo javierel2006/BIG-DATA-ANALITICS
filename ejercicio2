@@ -1,0 +1,11 @@
+# Solicitar al usuario un número con 4 decimales
+a = float(input("Ingrese el primer número con 4 decimales: "))
+
+# Segunda variable
+b = 5
+
+# Operación
+resultado = (((a + b) / 5) ** 2) / 2
+
+# Mostrar resultado
+print("El resultado es:", resultado)
